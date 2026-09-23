@@ -1,2 +1,2 @@
-print("Hello Git")
-print("Learning DevOps")
+git commit --amend -m "Correct commit message"
+
